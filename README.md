@@ -83,15 +83,15 @@ cp .env.example .env
 php artisan key:generate
 ```
 
-6. Buatlah database kosong di phpmyadmin dengan nama **db_latihan**
-7. Kemudian Database Tersebut Atur Di File .env pada bagian DB_DATABASE
-8. Lakukan Migrasi Database
+7. Buatlah database kosong di phpmyadmin dengan nama **db_latihan**
+8. Kemudian Database Tersebut Atur Di File .env pada bagian DB_DATABASE
+9. Lakukan Migrasi Database
 
 ```
 php artisan migrate
 ```
 
-9. Jalankan aplikasi Menggunakan 2 Console : 1 Untuk php artisan serve, 1 Untuk Npm Run Dev
+10. Jalankan aplikasi Menggunakan 2 Console : 1 Untuk php artisan serve, 1 Untuk Npm Run Dev
 
 ```
 php artisan serve
