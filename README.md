@@ -7,13 +7,13 @@
 1. Lakukan Clone Repository
 
 ```
-git clone https://github.com/Latihan-Codingan/Laravel-livewire.git
+git clone https://github.com/Latihan-Codingan/Laravel-jetstream-livewire.git
 ```
 
 2. Masuk ke directory
 
 ```
-cd Laundry_Daily_Wash
+cd Laravel-jetsream-livewire
 ```
 
 ### Jika Ada Perubahan File
